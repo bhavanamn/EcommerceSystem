@@ -11,8 +11,7 @@ OrderDetails: Manages the details of products and quantities in an order.
 Payment: Handles payments made for an order.
 Main: The entry point of the application where the user creates orders, adds products, and makes payments.
 Project Directory Structure:
-css
-Copy code
+
 EcommerceSystem
 │
 └───src
